@@ -1,4 +1,4 @@
-# Pitchbook Companies Information Dataset Sample
+# Pitchbook Companies Information データセットサンプル
 
 <h2>1,002件のレコードからなるサンプルデータセット</h2>
 
