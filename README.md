@@ -1,57 +1,57 @@
 # Pitchbook Companies Information Dataset Sample
 
-<h2>A sample dataset of 1,002 records</h2>
+<h2>1,002件のレコードからなるサンプルデータセット</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.jp">
     <img src="https://github.com/luminati-io/Pitchbook-Companies-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Pitchbook Companies Information Dataset Sample** includes **1,002 records** and was extracted using the **Bright Data API**.
+この**Pitchbook Companies Information Dataset Sample**には**1,002件のレコード**が含まれており、**Bright Data API**を使用して抽出されました。
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `url` | The web address for the company's profile on Pitchbook. |
-| `id` | Unique identifier assigned to each company by Pitchbook. |
-| `company_name` | The official name of the company. |
-| `company_socials` | Links to the company's social media profiles. |
-| `year_founded` | The year the company was established. |
-| `status` | Current business status such as active, acquired, or out of business. |
-| `employees` | Approximate number of employees working at the company. |
-| `latest_deal_type` | The most recent type of deal, e.g., M&A, funding round. |
-| `financing_rounds` | Total number of financing rounds the company has undergone. |
-| `investments` | Number of investments made by the company. |
-| `description` | Brief overview of the company's operations and products/services. |
-| `contact_information` | Contact details including websites and email addresses. |
-| `patents` | Information on patents held by the company. |
-| `competitors` | List of main competitors in the industry. |
-| `research_analysis` | Reports and analysis conducted on the company's business. |
-| `patent_activity` | Details of recent patent filings and activities. |
-| `all_investments` | Comprehensive list of all investments received by the company. |
-| `faq` | Frequently asked questions related to the company's profile. |
-| `latest_deal_amount` | Reported amount of the latest deal or investment. |
-| `latest_deal_amount_value` | Numeric value of the latest deal amount. |
-| `latest_deal_date` | Date of the most recent deal involving the company. |
+| `url` | Pitchbook上の企業プロフィールのWebアドレスです。 |
+| `id` | Pitchbookが各企業に割り当てる一意の識別子です。 |
+| `company_name` | 企業の正式名称です。 |
+| `company_socials` | 企業のソーシャルメディアプロフィールへのリンクです。 |
+| `year_founded` | 企業の設立年です。 |
+| `status` | アクティブ、買収済み、廃業などの現在の事業ステータスです。 |
+| `employees` | 企業で働く従業員のおおよその人数です。 |
+| `latest_deal_type` | 最新の取引タイプ（例：M&A、資金調達ラウンド）です。 |
+| `financing_rounds` | 企業が実施した資金調達ラウンドの総数です。 |
+| `investments` | 企業が行った投資の件数です。 |
+| `description` | 企業の事業内容および製品/サービスの概要です。 |
+| `contact_information` | Webサイトやメールアドレスなどを含む連絡先詳細です。 |
+| `patents` | 企業が保有する特許に関する情報です。 |
+| `competitors` | 業界における主要競合の一覧です。 |
+| `research_analysis` | 企業の事業に関して実施されたレポートおよび分析です。 |
+| `patent_activity` | 最近の特許出願および活動の詳細です。 |
+| `all_investments` | 企業が受けたすべての投資の包括的な一覧です。 |
+| `faq` | 企業プロフィールに関連するよくある質問です。 |
+| `latest_deal_amount` | 最新の取引または投資の報告金額です。 |
+| `latest_deal_amount_value` | 最新取引金額の数値です。 |
+| `latest_deal_date` | 企業に関する最新取引の日付です。 |
 
 
 ## Use Cases
 
 ### 1. Investment Analysis
-Utilize this dataset to assess market trends and investment opportunities by examining company profiles and financing details.
+企業プロフィールや資金調達の詳細を確認することで、市場トレンドと投資機会を評価するためにこのデータセットをご活用ください。
 
 ### 2. Competitive Benchmarking
-Use the dataset to compare competitors' business strategies and performance metrics, aiding strategic planning and market positioning.
+競合の事業戦略やパフォーマンス指標を比較し、戦略立案や市場でのポジショニングに役立てるためにデータセットをご利用ください。
 
 ### 3. Market Research
-Conduct in-depth market research by analyzing company descriptions, founding years, and deal types to uncover sector dynamics.
+企業概要、設立年、取引タイプを分析し、セクターのダイナミクスを明らかにすることで、深い市場調査を実施できます。
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+データセットは複数の形式で提供されています：
+- **CSV**（このサンプルに含まれています）
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -71,8 +71,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+データセットはさまざまなスケジュールで更新できます：
+- **Once**（1回限りの配信）
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -81,14 +81,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+特定の要件に基づいて追加のデータポイントでデータセットを強化できます。カスタムのエンリッチメントオプションについてはお問い合わせください。
 
-**[Get the full Pitchbook Companies Information dataset](https://brightdata.com/products/datasets/pitchbook)**
+**[Get the full Pitchbook Companies Information dataset](https://brightdata.jp/products/datasets/pitchbook)**
 
 ---
 
 ## Free Access for Researchers and NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Bright Initiativeでは、環境および社会的課題に取り組む学術研究者、NGO、NPO向けに、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)**および**[ready-to-use datasets](https://brightdata.jp/products/datasets)**への無料アクセスを提供しています。 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+[brightinitiative.com](https://brightinitiative.com) から無料アクセスにお申し込みください。
