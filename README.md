@@ -1,6 +1,6 @@
-# Pitchbook Companies Information データセットサンプル
+# Pitchbook Companies Information Dataset Sample
 
-<h2>1,002件のレコードからなるサンプルデータセット</h2>
+<h2>1,002件のレコードを含むサンプルデータセット</h2>
 
 <a href="https://brightdata.jp">
     <img src="https://github.com/bright-jp/Pitchbook-Companies-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
@@ -8,49 +8,49 @@
 
 この**Pitchbook Companies Information Dataset Sample**には**1,002件のレコード**が含まれており、**Bright Data API**を使用して抽出されました。
 
-## Data Points
+## データポイント
 
 | Field Name | Description |
 |------------|-------------|
-| `url` | Pitchbook上の企業プロフィールのWebアドレスです。 |
-| `id` | Pitchbookが各企業に割り当てる一意の識別子です。 |
-| `company_name` | 企業の正式名称です。 |
-| `company_socials` | 企業のソーシャルメディアプロフィールへのリンクです。 |
-| `year_founded` | 企業の設立年です。 |
-| `status` | アクティブ、買収済み、廃業などの現在の事業ステータスです。 |
-| `employees` | 企業で働く従業員のおおよその人数です。 |
-| `latest_deal_type` | 最新の取引タイプ（例：M&A、資金調達ラウンド）です。 |
-| `financing_rounds` | 企業が実施した資金調達ラウンドの総数です。 |
-| `investments` | 企業が行った投資の件数です。 |
-| `description` | 企業の事業内容および製品/サービスの概要です。 |
-| `contact_information` | Webサイトやメールアドレスなどを含む連絡先詳細です。 |
-| `patents` | 企業が保有する特許に関する情報です。 |
-| `competitors` | 業界における主要競合の一覧です。 |
-| `research_analysis` | 企業の事業に関して実施されたレポートおよび分析です。 |
-| `patent_activity` | 最近の特許出願および活動の詳細です。 |
-| `all_investments` | 企業が受けたすべての投資の包括的な一覧です。 |
-| `faq` | 企業プロフィールに関連するよくある質問です。 |
-| `latest_deal_amount` | 最新の取引または投資の報告金額です。 |
-| `latest_deal_amount_value` | 最新取引金額の数値です。 |
-| `latest_deal_date` | 企業に関する最新取引の日付です。 |
+| `url` | Pitchbook上の企業プロフィールのWebアドレス。 |
+| `id` | Pitchbookによって各企業に割り当てられた一意の識別子。 |
+| `company_name` | 企業の正式名称。 |
+| `company_socials` | 企業のソーシャルメディアプロフィールへのリンク。 |
+| `year_founded` | 企業が設立された年。 |
+| `status` | active、acquired、out of business などの現在の事業ステータス。 |
+| `employees` | 企業で働く従業員数のおおよその人数。 |
+| `latest_deal_type` | 直近のdealの種類（例：M&A、資金調達ラウンド）。 |
+| `financing_rounds` | 企業がこれまでに実施した資金調達ラウンドの総数。 |
+| `investments` | 企業が行った投資件数。 |
+| `description` | 企業の事業内容および製品・サービスの概要。 |
+| `contact_information` | Webサイトやメールアドレスを含む連絡先情報。 |
+| `patents` | 企業が保有する特許に関する情報。 |
+| `competitors` | 業界における主な競合企業の一覧。 |
+| `research_analysis` | 企業の事業に対して実施されたレポートおよび分析。 |
+| `patent_activity` | 最近の特許出願および関連活動の詳細。 |
+| `all_investments` | 企業が受けたすべての投資の包括的な一覧。 |
+| `faq` | 企業プロフィールに関連するよくある質問。 |
+| `latest_deal_amount` | 最新のdealまたは投資の報告金額。 |
+| `latest_deal_amount_value` | 最新のdeal金額の数値。 |
+| `latest_deal_date` | 企業に関する直近のdealの日付。 |
 
 
-## Use Cases
+## ユースケース
 
-### 1. Investment Analysis
-企業プロフィールや資金調達の詳細を確認することで、市場トレンドと投資機会を評価するためにこのデータセットをご活用ください。
+### 1. 投資分析
+このデータセットを活用して、企業プロフィールや資金調達の詳細を調査し、市場動向や投資機会を評価します。
 
-### 2. Competitive Benchmarking
-競合の事業戦略やパフォーマンス指標を比較し、戦略立案や市場でのポジショニングに役立てるためにデータセットをご利用ください。
+### 2. 競合ベンチマーキング
+このデータセットを使用して競合他社の事業戦略やパフォーマンス指標を比較し、戦略立案や市場ポジショニングに役立てます。
 
-### 3. Market Research
-企業概要、設立年、取引タイプを分析し、セクターのダイナミクスを明らかにすることで、深い市場調査を実施できます。
+### 3. 市場調査
+企業説明、設立年、dealの種類を分析することで、セクターの動向を明らかにする詳細な市場調査を実施できます。
 
 
 
-## File Formats
+## ファイル形式
 
-データセットは複数の形式で提供されています：
+このデータセットは複数の形式で利用できます：
 - **CSV**（このサンプルに含まれています）
 - **JSON**
 - **NDJSON**
@@ -58,7 +58,7 @@
 - **Parquet**
 - **Compressed (.gz)**
 
-## Delivery Options
+## 提供オプション
 
 - **Email**
 - **API Download**
@@ -69,26 +69,26 @@
 - **Snowflake**
 - **SFTP**
 
-## Update Frequency
+## 更新頻度
 
 データセットはさまざまなスケジュールで更新できます：
-- **Once**（1回限りの配信）
+- **Once**（1回限りの提供）
 - **Daily**
 - **Weekly**
 - **Monthly**
 - **Quarterly**
 - **Custom schedules**
 
-## Data Enrichment
+## データ拡張
 
-特定の要件に基づいて追加のデータポイントでデータセットを強化できます。カスタムのエンリッチメントオプションについてはお問い合わせください。
+特定の要件に基づいて追加のデータポイントを加え、データセットを強化できます。カスタム拡張オプションについてはお問い合わせください。
 
-**[Get the full Pitchbook Companies Information dataset](https://brightdata.jp/products/datasets/pitchbook)**
+**[完全版のPitchbook Companies Information datasetを入手](https://brightdata.jp/products/datasets/pitchbook)**
 
 ---
 
-## Free Access for Researchers and NGOs
+## 研究者およびNGO向けの無料アクセス
 
-Bright Initiativeでは、環境および社会的課題に取り組む学術研究者、NGO、NPO向けに、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)**および**[ready-to-use datasets](https://brightdata.jp/products/datasets)**への無料アクセスを提供しています。 
+Bright Initiativeは、環境問題や社会課題に取り組む学術研究者、NGO、NPO向けに、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)**および**[すぐに使えるデータセット](https://brightdata.jp/products/datasets)**への無料アクセスを提供しています。 
 
-[brightinitiative.com](https://brightinitiative.com) から無料アクセスにお申し込みください。
+無料アクセスの申請は[brightinitiative.com](https://brightinitiative.com)から行えます。
